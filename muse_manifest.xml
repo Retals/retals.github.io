@@ -1,7 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="morandy.com" resolutions="1x" timestamp="1614284574926">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="morandy.com" resolutions="1x" timestamp="1614287075726">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="168781236" ref="index"/>
+    <file name="index.css" crc="63379583" ref="index"/>
+    <file name="nomq_index.css" crc="4033209826" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,12 +11,32 @@
     <file name="museconfig.js" crc="4286661555" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="25100.jpg" crc="3851181227" ref="index">
+    <file name="25100.jpg" crc="456676590" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="background5.jpg" crc="3965552560" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -30,6 +51,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="заработайте-500$-в-день!-favicon.ico" crc="4239922062" ref="index"/>
+    <file name="25100-page-fr.jpg" crc="20348376" ref="index"/>
+    <file name="buy-u297-fr.png" crc="3814167031" ref="index"/>
+    <file name="buy-u297-fr2.png" crc="4279102404" ref="index"/>
   </folder>
-  <file name="index.html" crc="431504912" seo="true" mt="1614284549157" redirect="true"/>
+  <file name="index.html" crc="364153072" seo="true" mt="1614286982253" redirect="true"/>
 </manifest>
