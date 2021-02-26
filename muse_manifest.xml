@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="morandy.com" resolutions="1x" timestamp="1614331624679">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="morandy.com" resolutions="1x" timestamp="1614331715532">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="47888458" ref="index"/>
+    <file name="index.css" crc="472871135" ref="index"/>
     <file name="nomq_index.css" crc="3794941834" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -53,5 +53,5 @@
     <file name="25100-page-fr.jpg" crc="4039789068" ref="index"/>
     <file name="25100-page-fr2.jpg" crc="4105959444" ref="index"/>
   </folder>
-  <file name="index.html" crc="289553091" seo="true" mt="1614331610529" redirect="true"/>
+  <file name="index.html" crc="4288275330" seo="true" mt="1614331700869" redirect="true"/>
 </manifest>
