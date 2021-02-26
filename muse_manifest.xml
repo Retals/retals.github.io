@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="morandy.com" resolutions="1x" timestamp="1614330714547">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="morandy.com" resolutions="1x" timestamp="1614330946036">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3791811253" ref="index"/>
+    <file name="index.css" crc="4289745541" ref="index"/>
     <file name="nomq_index.css" crc="3842301118" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -54,5 +54,5 @@
     <file name="buy-u297-fr.png" crc="500170928" ref="index"/>
     <file name="25100-page-fr2.jpg" crc="4105959444" ref="index"/>
   </folder>
-  <file name="index.html" crc="504394862" seo="true" mt="1614330506981" redirect="true"/>
+  <file name="index.html" crc="8991439" seo="true" mt="1614330934023" redirect="true"/>
 </manifest>
