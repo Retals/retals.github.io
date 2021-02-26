@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="morandy.com" resolutions="1x" timestamp="1614331135322">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="morandy.com" resolutions="1x" timestamp="1614331505332">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="211142221" ref="index"/>
+    <file name="index.css" crc="50211016" ref="index"/>
     <file name="nomq_index.css" crc="3842301118" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -51,8 +51,8 @@
     </file>
     <file name="заработайте-500$-в-день!-favicon.ico" crc="4239922062" ref="index"/>
     <file name="25100-page-fr.jpg" crc="4039789068" ref="index"/>
-    <file name="buy-u297-fr.png" crc="500170928" ref="index"/>
+    <file name="buy-u297-fr.png" crc="4043844451" ref="index"/>
     <file name="25100-page-fr2.jpg" crc="4105959444" ref="index"/>
   </folder>
-  <file name="index.html" crc="121648590" seo="true" mt="1614331119975" redirect="true"/>
+  <file name="index.html" crc="98649970" seo="true" mt="1614331434406" redirect="true"/>
 </manifest>
