@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="morandy.com" resolutions="1x" timestamp="1614889985756">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="morandy.com" resolutions="1x" timestamp="1614890905289">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="499540776" ref="index"/>
-    <file name="nomq_index.css" crc="4189476750" ref="index"/>
+    <file name="index.css" crc="485538774" ref="index"/>
+    <file name="nomq_index.css" crc="68861553" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,9 +14,6 @@
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="25100.jpg" crc="32494008" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="background5.jpg" crc="3965552560" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -50,8 +47,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="заработайте-500$-в-день!-favicon.ico" crc="4239922062" ref="index"/>
-    <file name="25100-page-fr.jpg" crc="4039789068" ref="index"/>
-    <file name="25100-page-fr2.jpg" crc="4105959444" ref="index"/>
+    <file name="13167-2-page-fr.jpg" crc="269263378" ref="index"/>
+    <file name="13167-2-page-fr2.jpg" crc="162841122" ref="index"/>
+    <file name="13167-2.jpg" crc="3942019872" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="18930867" seo="true" mt="1614889972718" redirect="true"/>
+  <file name="index.html" crc="284793139" seo="true" mt="1614890866170" redirect="true"/>
 </manifest>
