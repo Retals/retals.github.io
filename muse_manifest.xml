@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="morandy.com" resolutions="1x" timestamp="1615034369213">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="morandy.com" resolutions="1x" timestamp="1615238654425">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="314933414" ref="index"/>
-    <file name="nomq_index.css" crc="313157389" ref="index"/>
+    <file name="index.css" crc="505242671" ref="index"/>
+    <file name="nomq_index.css" crc="417733148" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -42,16 +42,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="buy.png" crc="366979920" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="заработайте-500$-в-день!-favicon.ico" crc="4239922062" ref="index"/>
-    <file name="25100-page-fr.jpg" crc="528780791" ref="index"/>
-    <file name="25100-page-fr2.jpg" crc="269292992" ref="index"/>
-    <file name="25100.jpg" crc="343276260" ref="index">
+    <file name="25100-page-fr.jpg" crc="3951068919" ref="index"/>
+    <file name="25100-page-fr2.jpg" crc="114552309" ref="index"/>
+    <file name="25100.jpg" crc="3987594974" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="123822567" seo="true" mt="1615034344827" redirect="true"/>
+  <file name="index.html" crc="3877242299" seo="true" mt="1615238644172" redirect="true"/>
 </manifest>
