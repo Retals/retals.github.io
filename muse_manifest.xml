@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1615665453348">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1615665722182">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4249710958" ref="index"/>
@@ -90,6 +90,6 @@
     </file>
     <file name="как-заработать-биткоин-2021-favicon.ico" crc="4143536360" ref="index"/>
   </folder>
-  <file name="index.html" crc="147268911" seo="true" mt="1615665438966" redirect="true"/>
+  <file name="index.html" crc="4172247131" seo="true" mt="1615665668844" redirect="true"/>
   <file name="обзор-freebitcoin.html" crc="18973760" seo="true" mt="1615576627741" redirect="false"/>
 </manifest>
