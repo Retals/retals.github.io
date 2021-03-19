@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1616160632375">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1616160915743">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="65987707" ref="index"/>
-    <file name="review-coinpayu.css" crc="4018278688" ref="review-coinpayu"/>
+    <file name="review-coinpayu.css" crc="414801770" ref="review-coinpayu"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:review-coinpayu"/>
@@ -122,5 +122,5 @@
     <file name="review-coinpayu-favicon.ico" crc="4143536360" ref="review-coinpayu"/>
   </folder>
   <file name="index.html" crc="3816036927" seo="true" mt="1616158232313" redirect="true"/>
-  <file name="review-coinpayu.html" crc="353054202" seo="true" mt="1616160622588" redirect="true"/>
+  <file name="review-coinpayu.html" crc="3863060197" seo="true" mt="1616160902959" redirect="true"/>
 </manifest>
