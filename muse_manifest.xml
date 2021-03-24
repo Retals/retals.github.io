@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1616532588807">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1616600529869">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4200529147" ref="index"/>
+    <file name="index.css" crc="4279454244" ref="index"/>
     <file name="coinpay.css" crc="4052297592" ref="coinpay"/>
   </folder>
   <folder name="scripts">
@@ -141,6 +141,6 @@
     <file name="--bitcoin---favicon.ico" crc="335698623" ref="index"/>
     <file name="coinpay-favicon.ico" crc="335698623" ref="coinpay"/>
   </folder>
-  <file name="index.html" crc="3850038491" seo="true" mt="1616532419174" redirect="true"/>
+  <file name="index.html" crc="129387880" seo="true" mt="1616600520004" redirect="true"/>
   <file name="coinpay.html" crc="4176237560" seo="true" mt="1616532580795" redirect="true"/>
 </manifest>
