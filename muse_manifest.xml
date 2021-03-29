@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1616849874870">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1617035868008">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="334420287" ref="index"/>
+    <file name="index.css" crc="322118808" ref="index"/>
     <file name="coinpay.css" crc="4052297592" ref="coinpay"/>
   </folder>
   <folder name="scripts">
@@ -139,7 +139,6 @@
       <caption webpage="coinpayu-review" alt=""/>
       <caption webpage="review-coinpayu" alt=""/>
     </file>
-    <file name="--bitcoin---favicon.ico" crc="335698623" ref="index"/>
     <file name="coinpay-favicon.ico" crc="335698623" ref="coinpay"/>
     <file name="mysurfingads.jpg" crc="157395817" ref="index">
       <caption webpage="index" alt=""/>
@@ -147,7 +146,8 @@
     <file name="new-4.png" crc="3873521120" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="the-best-bitcoin---faucets-to-make-money-favicon.ico" crc="3913007957" ref="index"/>
   </folder>
-  <file name="index.html" crc="4064949825" seo="true" mt="1616849865803" redirect="true"/>
+  <file name="index.html" crc="99308349" seo="true" mt="1617035544223" redirect="true"/>
   <file name="coinpay.html" crc="4176237560" seo="true" mt="1616532580795" redirect="true"/>
 </manifest>
