@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1617103276163">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1617103711809">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="36530871" ref="index"/>
+    <file name="index.css" crc="4015080057" ref="index"/>
     <file name="coinpay.css" crc="4052297592" ref="coinpay"/>
   </folder>
   <folder name="scripts">
@@ -148,6 +148,6 @@
     </file>
     <file name="the-best-bitcoin---faucets-to-make-money-favicon.ico" crc="3913007957" ref="index"/>
   </folder>
-  <file name="index.html" crc="167244511" seo="true" mt="1617103252518" redirect="true"/>
+  <file name="index.html" crc="4262452226" seo="true" mt="1617103703024" redirect="true"/>
   <file name="coinpay.html" crc="4176237560" seo="true" mt="1616532580795" redirect="true"/>
 </manifest>
