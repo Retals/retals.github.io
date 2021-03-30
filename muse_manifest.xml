@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1617139006612">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1617139347724">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="493187401" ref="index"/>
+    <file name="index.css" crc="44209535" ref="index"/>
     <file name="coinpay.css" crc="4052297592" ref="coinpay"/>
   </folder>
   <folder name="scripts">
@@ -151,6 +151,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="185189124" seo="true" mt="1617138943170" redirect="true"/>
+  <file name="index.html" crc="3898244654" seo="true" mt="1617139326569" redirect="true"/>
   <file name="coinpay.html" crc="4176237560" seo="true" mt="1616532580795" redirect="true"/>
 </manifest>
