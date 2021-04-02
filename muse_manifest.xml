@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1617198564963">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1617381916430">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3883697817" ref="index"/>
-    <file name="coinpay.css" crc="486631542" ref="coinpay"/>
+    <file name="index.css" crc="348453760" ref="index"/>
+    <file name="coinpay.css" crc="302937483" ref="coinpay"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:coinpay"/>
@@ -60,6 +60,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo-u572-fr.png" crc="4006911137" ref="index"/>
     <file name="profitcentr.jpg" crc="3800435458" ref="index">
@@ -69,6 +71,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="2.jpg" crc="4054537791" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="cryptocurrency.jpg" crc="404829673" ref="index">
@@ -90,56 +93,56 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="registratsiya-v-coinpayu.jpg" crc="4041774773" seo="true" ref="coinpay">
-      <caption webpage="coinpay" alt=""/>
       <caption webpage="coinpayu-review" alt=""/>
       <caption webpage="review-coinpayu" alt=""/>
+      <caption webpage="coinpay" alt=""/>
     </file>
     <file name="coinpayu-registration.jpg" crc="534978706" seo="true" ref="coinpay">
-      <caption webpage="coinpay" alt=""/>
       <caption webpage="coinpayu-review" alt=""/>
       <caption webpage="review-coinpayu" alt=""/>
+      <caption webpage="coinpay" alt=""/>
     </file>
     <file name="coinpayu-serfing-saytov.jpg" crc="46999843" seo="true" ref="coinpay">
-      <caption webpage="coinpay" alt=""/>
       <caption webpage="coinpayu-review" alt=""/>
       <caption webpage="review-coinpayu" alt=""/>
+      <caption webpage="coinpay" alt=""/>
     </file>
     <file name="coinpayu-serfing-v-aktivnom-okne.jpg" crc="3977648519" seo="true" ref="coinpay">
-      <caption webpage="coinpay" alt=""/>
       <caption webpage="coinpayu-review" alt=""/>
       <caption webpage="review-coinpayu" alt=""/>
+      <caption webpage="coinpay" alt=""/>
     </file>
     <file name="platnye-zadaniya-v-coinpayu.jpg" crc="388219959" seo="true" ref="coinpay">
-      <caption webpage="coinpay" alt=""/>
       <caption webpage="coinpayu-review" alt=""/>
       <caption webpage="review-coinpayu" alt=""/>
+      <caption webpage="coinpay" alt=""/>
     </file>
     <file name="spisok-ssylok-v-serfinge.jpg" crc="4157506862" seo="true" ref="coinpay">
-      <caption webpage="coinpay" alt=""/>
       <caption webpage="coinpayu-review" alt=""/>
       <caption webpage="review-coinpayu" alt=""/>
+      <caption webpage="coinpay" alt=""/>
     </file>
     <file name="taymer-v-serfinge.jpg" crc="3864206826" seo="true" ref="coinpay">
-      <caption webpage="coinpay" alt=""/>
       <caption webpage="coinpayu-review" alt=""/>
       <caption webpage="review-coinpayu" alt=""/>
+      <caption webpage="coinpay" alt=""/>
     </file>
     <file name="reshenie-kapchi-v-serfinge.jpg" crc="4146989159" seo="true" ref="coinpay">
-      <caption webpage="coinpay" alt=""/>
       <caption webpage="coinpayu-review" alt=""/>
       <caption webpage="review-coinpayu" alt=""/>
+      <caption webpage="coinpay" alt=""/>
     </file>
     <file name="premium-akkaunty-coinpayu.jpg" crc="288370149" seo="true" ref="coinpay">
-      <caption webpage="coinpay" alt=""/>
       <caption webpage="coinpayu-review" alt=""/>
       <caption webpage="review-coinpayu" alt=""/>
+      <caption webpage="coinpay" alt=""/>
     </file>
     <file name="withdraw.jpg" crc="175573356" seo="true" ref="coinpay">
-      <caption webpage="coinpay" alt=""/>
       <caption webpage="coinpayu-review" alt=""/>
       <caption webpage="review-coinpayu" alt=""/>
+      <caption webpage="coinpay" alt=""/>
     </file>
-    <file name="coinpay-favicon.ico" crc="335698623" ref="coinpay"/>
+    <file name="coinpay-favicon.ico" crc="186248096" ref="coinpay"/>
     <file name="mysurfingads.jpg" crc="157395817" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -153,7 +156,12 @@
     <file name="bitcoin 64 -9.png" crc="3932618188" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="everve_logo_black_dashboard.png" crc="4224672037" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="buxon-u1741-fr.png" crc="9447691" ref="index"/>
+    <file name="teaserfast-u1770-fr.png" crc="4147992299" ref="index"/>
   </folder>
-  <file name="index.html" crc="39856435" seo="true" mt="1617198474419" redirect="true"/>
-  <file name="coinpay.html" crc="4077828625" seo="true" mt="1617197910407" redirect="true"/>
+  <file name="index.html" crc="3766502920" seo="true" mt="1617381790548" redirect="true"/>
+  <file name="coinpay.html" crc="66081332" seo="true" mt="1617381377696" redirect="true"/>
 </manifest>
