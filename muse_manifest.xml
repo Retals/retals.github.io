@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1617381916430">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1617567610127">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="348453760" ref="index"/>
+    <file name="index.css" crc="86272211" ref="index"/>
     <file name="coinpay.css" crc="302937483" ref="coinpay"/>
   </folder>
   <folder name="scripts">
@@ -161,7 +161,10 @@
     </file>
     <file name="buxon-u1741-fr.png" crc="9447691" ref="index"/>
     <file name="teaserfast-u1770-fr.png" crc="4147992299" ref="index"/>
+    <file name="best (1).png" crc="265585671" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3766502920" seo="true" mt="1617381790548" redirect="true"/>
+  <file name="index.html" crc="335449638" seo="true" mt="1617567588971" redirect="true"/>
   <file name="coinpay.html" crc="66081332" seo="true" mt="1617381377696" redirect="true"/>
 </manifest>
