@@ -17,6 +17,9 @@
     <image:image>
       <image:loc>http://retals.com/images/best%20(1).png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://retals.com/images/top-rated.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://retals.com/coinpay.html</loc>
