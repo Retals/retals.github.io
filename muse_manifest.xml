@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1617569149893">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1618317479700">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4182626447" ref="index"/>
+    <file name="index.css" crc="3926137710" ref="index"/>
     <file name="coinpay.css" crc="302937483" ref="coinpay"/>
   </folder>
   <folder name="scripts">
@@ -75,6 +75,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="cryptocurrency.jpg" crc="404829673" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -167,7 +168,13 @@
     <file name="top-rated.png" crc="216798014" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="first.png" crc="3949251384" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="binance.jpg" crc="144426610" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="169704580" seo="true" mt="1617569138303" redirect="true"/>
+  <file name="index.html" crc="170727760" seo="true" mt="1618317453910" redirect="true"/>
   <file name="coinpay.html" crc="66081332" seo="true" mt="1617381377696" redirect="true"/>
 </manifest>
