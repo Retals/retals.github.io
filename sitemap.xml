@@ -60,4 +60,31 @@
       <image:loc>http://retals.com/images/withdraw.jpg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://retals.com/freebitcoin.html</loc>
+    <lastmod>2021-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://retals.com/images/free%20bitcoin.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://retals.com/images/fun.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://retals.com/images/hi%20lo%20en.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://retals.com/images/bet.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://retals.com/images/gold%20win.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://retals.com/images/lotery.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://retals.com/images/%D0%BF%D1%80%D0%B8%D0%B7%D1%8B.jpg</image:loc>
+    </image:image>
+  </url>
 </urlset>
