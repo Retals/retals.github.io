@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1618335085781">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1620682737245">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="434489177" ref="index"/>
+    <file name="index.css" crc="4237548661" ref="index"/>
     <file name="coinpay.css" crc="302937483" ref="coinpay"/>
     <file name="freebitcoin.css" crc="476494216" ref="freebitcoin"/>
   </folder>
@@ -31,8 +31,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="coinpayu_blue.jpg" crc="448270006" ref="index">
       <caption webpage="index" alt=""/>
@@ -44,9 +42,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="litecoin-logo.jpg" crc="13472347" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cointiply.jpg" crc="3797489493" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="stormgain.jpg" crc="441745505" ref="index">
@@ -153,10 +148,8 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="the-best-bitcoin---faucets-to-make-money-favicon.ico" crc="186248096" ref="index"/>
-    <file name="bitcoin 64 -7.png" crc="3790106745" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="bitcoin 64 -9.png" crc="3932618188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="everve_logo_black_dashboard.png" crc="4224672037" ref="index">
@@ -174,9 +167,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="binance.jpg" crc="144426610" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="earnsato.jpg" crc="4196789355" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="free bitcoin.jpg" crc="28497212" seo="true" ref="freebitcoin">
@@ -204,8 +194,23 @@
     <file name="banner.jpg" crc="3920139978" ref="freebitcoin">
       <caption webpage="freebitcoin" alt=""/>
     </file>
+    <file name="freeethereum.jpg" crc="4243094565" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="152-1525847_ethereum-logo-png-ethereum-logo-large.jpg" crc="4032544172" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trophy.png" crc="75298581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="free-teather2.jpg" crc="4176538861" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tether.jpg" crc="4041190970" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="168015900" seo="true" mt="1618334673911" redirect="true"/>
+  <file name="index.html" crc="3956999118" seo="true" mt="1620682707824" redirect="true"/>
   <file name="coinpay.html" crc="66081332" seo="true" mt="1617381377696" redirect="true"/>
   <file name="freebitcoin.html" crc="3849153421" seo="true" mt="1618335076348" redirect="true"/>
 </manifest>
