@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1622896455761">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1631184398904">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="21538672" ref="index"/>
+    <file name="index.css" crc="78931399" ref="index"/>
     <file name="coinpay.css" crc="302937483" ref="coinpay"/>
     <file name="freebitcoin.css" crc="476494216" ref="freebitcoin"/>
   </folder>
@@ -29,8 +29,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="coinpayu_blue.jpg" crc="448270006" ref="index">
       <caption webpage="index" alt=""/>
@@ -47,9 +45,6 @@
     <file name="stormgain.jpg" crc="441745505" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="grab4.jpg" crc="26328469" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="clip2net_210312232119.jpg" crc="3761767663" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -58,16 +53,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="profitcentr.jpg" crc="3800435458" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="surfebe.jpg" crc="244889278" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2.jpg" crc="4054537791" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="cryptocurrency.jpg" crc="404829673" ref="index">
@@ -140,10 +130,8 @@
       <caption webpage="coinpay" alt=""/>
     </file>
     <file name="coinpay-favicon.ico" crc="186248096" ref="coinpay"/>
-    <file name="mysurfingads.jpg" crc="157395817" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="new-4.png" crc="4286792384" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="the-best-bitcoin---faucets-to-make-money-favicon.ico" crc="186248096" ref="index"/>
@@ -202,14 +190,17 @@
     <file name="trophy.png" crc="75298581" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="seotime.jpg" crc="527081278" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="like.png" crc="246886495" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="free-dogecoin-3.jpg" crc="4042591326" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dogecoin-doge-logo-exe.jpg" crc="319514929" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="330000525" seo="true" mt="1622896413229" redirect="true"/>
+  <file name="index.html" crc="4174430477" seo="true" mt="1631184380276" redirect="true"/>
   <file name="coinpay.html" crc="66081332" seo="true" mt="1617381377696" redirect="true"/>
   <file name="freebitcoin.html" crc="3849153421" seo="true" mt="1618335076348" redirect="true"/>
 </manifest>
