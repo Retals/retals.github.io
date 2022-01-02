@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1631185302063">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1641147300066">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="78931399" ref="index"/>
+    <file name="index.css" crc="3930505275" ref="index"/>
     <file name="coinpay.css" crc="302937483" ref="coinpay"/>
     <file name="freebitcoin.css" crc="476494216" ref="freebitcoin"/>
   </folder>
@@ -25,6 +25,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="bitcoin-11.jpg" crc="4130362704" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -180,12 +181,6 @@
     <file name="banner.jpg" crc="3920139978" ref="freebitcoin">
       <caption webpage="freebitcoin" alt=""/>
     </file>
-    <file name="freeethereum.jpg" crc="4243094565" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="152-1525847_ethereum-logo-png-ethereum-logo-large.jpg" crc="4032544172" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="trophy.png" crc="75298581" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -199,8 +194,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="new-dogecoin-litecoin-bitcoin-faucets-favicon.ico" crc="4010472336" ref="index"/>
+    <file name="cointiply.jpg" crc="3797489493" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3838334496" seo="true" mt="1631185277956" redirect="true"/>
+  <file name="index.html" crc="208363677" seo="true" mt="1641147283758" redirect="true"/>
   <file name="coinpay.html" crc="66081332" seo="true" mt="1617381377696" redirect="true"/>
   <file name="freebitcoin.html" crc="3849153421" seo="true" mt="1618335076348" redirect="true"/>
 </manifest>
