@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1641932405369">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1642014407036">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4265155899" ref="index"/>
+    <file name="index.css" crc="504092097" ref="index"/>
     <file name="coinpay.css" crc="302937483" ref="coinpay"/>
     <file name="freebitcoin.css" crc="476494216" ref="freebitcoin"/>
     <file name="paidverts.css" crc="83800349" ref="paidverts"/>
@@ -56,6 +56,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="2.jpg" crc="4054537791" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -206,8 +207,11 @@
     <file name="bnb.png" crc="3829908778" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="cryptowin.jpg" crc="4160556324" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4059181779" seo="true" mt="1641932089150" redirect="true"/>
+  <file name="index.html" crc="367009117" seo="true" mt="1642014393427" redirect="true"/>
   <file name="coinpay.html" crc="66081332" seo="true" mt="1617381377696" redirect="true"/>
   <file name="freebitcoin.html" crc="3849153421" seo="true" mt="1618335076348" redirect="true"/>
   <file name="paidverts.html" crc="3851395117" seo="true" mt="1641930830889" redirect="true"/>
