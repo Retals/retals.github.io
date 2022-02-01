@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1642014661663">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1643752463633">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="504092097" ref="index"/>
+    <file name="index.css" crc="275485913" ref="index"/>
     <file name="coinpay.css" crc="302937483" ref="coinpay"/>
     <file name="freebitcoin.css" crc="476494216" ref="freebitcoin"/>
     <file name="paidverts.css" crc="83800349" ref="paidverts"/>
@@ -26,6 +26,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="bitcoin-11.jpg" crc="4130362704" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -193,9 +194,6 @@
     <file name="cointiply.jpg" crc="3797489493" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="neobux2.jpg" crc="507707735" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="bitcoin,-litecoin,-bitcoin-cash-favicon.ico" crc="92687242" ref="index"/>
     <file name="paidverts.jpg" crc="137366129" ref="index">
       <caption webpage="index" alt=""/>
@@ -210,8 +208,45 @@
     <file name="cryptowin.jpg" crc="4160556324" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="hero.jpg" crc="3778233515" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="monstr.jpg" crc="4174133190" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satoshi hero2.jpg" crc="84342627" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="png-clipart-bitcoin-cash-cryptocurrency-exchange-trade-bitcoin-orange-logo.jpg" crc="240083844" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satoshi monstr2.jpg" crc="151092612" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contyads.jpg" crc="3869261474" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="feyorra2.jpg" crc="463178103" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fey.png" crc="3808939734" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coinpayz2.jpg" crc="239065817" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="png-clipart-bitcoin-cash-cryptocurrency-exchange-trade-bitcoin-orange-logo (1).jpg" crc="240083844" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trafbig2.jpg" crc="4281752925" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="free-best-icon-1374-thumb.png" crc="4223251245" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="367009117" seo="true" mt="1642014393427" redirect="true"/>
+  <file name="index.html" crc="473887264" seo="true" mt="1643752448547" redirect="true"/>
   <file name="coinpay.html" crc="66081332" seo="true" mt="1617381377696" redirect="true"/>
   <file name="freebitcoin.html" crc="3849153421" seo="true" mt="1618335076348" redirect="true"/>
   <file name="paidverts.html" crc="3851395117" seo="true" mt="1641930830889" redirect="true"/>
