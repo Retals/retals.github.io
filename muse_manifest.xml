@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1644440450774">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1644441001220">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4241980925" ref="index"/>
+    <file name="index.css" crc="510586767" ref="index"/>
     <file name="coinpay.css" crc="302937483" ref="coinpay"/>
     <file name="freebitcoin.css" crc="476494216" ref="freebitcoin"/>
     <file name="paidverts.css" crc="83800349" ref="paidverts"/>
@@ -255,8 +255,11 @@
     <file name="94647.png" crc="4283543507" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="ptc.png" crc="3982650856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="205974048" seo="true" mt="1644440220394" redirect="true"/>
+  <file name="index.html" crc="299617780" seo="true" mt="1644440988427" redirect="true"/>
   <file name="coinpay.html" crc="66081332" seo="true" mt="1617381377696" redirect="true"/>
   <file name="freebitcoin.html" crc="3849153421" seo="true" mt="1618335076348" redirect="true"/>
   <file name="paidverts.html" crc="3851395117" seo="true" mt="1641930830889" redirect="true"/>

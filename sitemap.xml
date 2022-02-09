@@ -29,6 +29,9 @@
     <image:image>
       <image:loc>http://retals.com/images/bnb.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://retals.com/images/ptc.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://retals.com/coinpay.html</loc>
