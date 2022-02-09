@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1643752463633">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1644440450774">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="275485913" ref="index"/>
+    <file name="index.css" crc="4241980925" ref="index"/>
     <file name="coinpay.css" crc="302937483" ref="coinpay"/>
     <file name="freebitcoin.css" crc="476494216" ref="freebitcoin"/>
     <file name="paidverts.css" crc="83800349" ref="paidverts"/>
@@ -57,6 +57,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="2.jpg" crc="4054537791" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -194,7 +195,7 @@
     <file name="cointiply.jpg" crc="3797489493" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bitcoin,-litecoin,-bitcoin-cash-favicon.ico" crc="92687242" ref="index"/>
+    <file name="bitcoin,-litecoin,-bitcoin-cash-favicon.ico" crc="35794460" ref="index"/>
     <file name="paidverts.jpg" crc="137366129" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -245,8 +246,17 @@
     <file name="free-best-icon-1374-thumb.png" crc="4223251245" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="digadz.jpg" crc="284860434" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="expresswallet.jpg" crc="3987328224" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="94647.png" crc="4283543507" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="473887264" seo="true" mt="1643752448547" redirect="true"/>
+  <file name="index.html" crc="205974048" seo="true" mt="1644440220394" redirect="true"/>
   <file name="coinpay.html" crc="66081332" seo="true" mt="1617381377696" redirect="true"/>
   <file name="freebitcoin.html" crc="3849153421" seo="true" mt="1618335076348" redirect="true"/>
   <file name="paidverts.html" crc="3851395117" seo="true" mt="1641930830889" redirect="true"/>
