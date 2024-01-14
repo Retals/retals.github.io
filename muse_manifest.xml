@@ -1,271 +1,187 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1645133733453">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="retals.com" resolutions="1x" timestamp="1705275135294">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="455319379" ref="index"/>
-    <file name="coinpay.css" crc="302937483" ref="coinpay"/>
-    <file name="freebitcoin.css" crc="476494216" ref="freebitcoin"/>
-    <file name="paidverts.css" crc="83800349" ref="paidverts"/>
+    <file name="index.css" crc="119461911" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:coinpay:freebitcoin:paidverts"/>
-    <file name="museutils.js" crc="340535759" ref="index:coinpay:freebitcoin:paidverts"/>
-    <file name="whatinput.js" crc="86476730" ref="index:coinpay:freebitcoin:paidverts"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:coinpay:freebitcoin:paidverts"/>
-    <file name="require.js" crc="7928878" ref="index:coinpay:freebitcoin:paidverts"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:freebitcoin:paidverts"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:coinpay"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="freebitcoin_162x52.jpg" crc="116909340" ref="index">
+    <file name="лучшие-сайты-для-зароботка-bitcoin,-litecoin,-usd-favicon.ico" crc="4158352208" ref="index"/>
+    <file name="bitcoin 64 -9.png" crc="3932618188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="up-arrow.png" crc="3965679458" ref="index">
+    <file name="number-one.png" crc="363175992" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bitcoin-11.jpg" crc="4130362704" ref="index">
+    <file name="number-2.png" crc="297358619" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="number-3.png" crc="4089665717" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="number-four.png" crc="4219650498" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="number-5.png" crc="225214068" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="six.png" crc="4277504704" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="seven.png" crc="3865396532" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="number-8.png" crc="3948144298" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="number-9.png" crc="214029179" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="coinpayu_blue.jpg" crc="448270006" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="bitcoin-u3904.png" crc="300828349" ref="index"/>
+    <file name="bitcoin-u3904-r.png" crc="3830991300" ref="index"/>
+    <file name="solana-u3913.png" crc="238982086" ref="index"/>
+    <file name="solana-u3913-r.png" crc="3785188437" ref="index"/>
+    <file name="ethereum-u3907.png" crc="141849077" ref="index"/>
+    <file name="ethereum-u3907-r.png" crc="3874374228" ref="index"/>
+    <file name="tether-u3916.png" crc="437991567" ref="index"/>
+    <file name="tether-u3916-r.png" crc="180861709" ref="index"/>
+    <file name="bnb-u3910.png" crc="4274357343" ref="index"/>
+    <file name="bnb-u3910-r.png" crc="337742881" ref="index"/>
+    <file name="xrp-u3919.png" crc="3969308577" ref="index"/>
+    <file name="xrp-u3919-r.png" crc="4026711770" ref="index"/>
     <file name="adbtc.jpg" crc="3888034150" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="freelitecoin_new.jpg" crc="127470352" ref="index">
+    <file name="bitcoin-u4060.png" crc="300828349" ref="index"/>
+    <file name="bitcoin-u4060-r.png" crc="3830991300" ref="index"/>
+    <file name="payeer-u4057.png" crc="4128694936" ref="index"/>
+    <file name="payeer-u4057-r.png" crc="152426415" ref="index"/>
+    <file name="faucetpay2-u4058.png" crc="4608759" ref="index"/>
+    <file name="faucetpay2-u4058-r.png" crc="451449171" ref="index"/>
+    <file name="polygon-u4061.png" crc="372513942" ref="index"/>
+    <file name="polygon-u4061-r.png" crc="3783941058" ref="index"/>
+    <file name="freebitcoin_162x52.jpg" crc="116909340" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="litecoin-logo.jpg" crc="13472347" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="stormgain.jpg" crc="441745505" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clip2net_210312232119.jpg" crc="3761767663" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="94647-5.png" crc="316266719" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2.jpg" crc="4054537791" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cryptocurrency.jpg" crc="404829673" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="payeer.jpg" crc="389515888" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1583201566-250.jpg" crc="163312882" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="kuna.jpg" crc="4107988416" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="registratsiya-v-coinpayu.jpg" crc="4041774773" seo="true" ref="coinpay">
-      <caption webpage="coinpayu-review" alt=""/>
-      <caption webpage="review-coinpayu" alt=""/>
-      <caption webpage="coinpay" alt=""/>
-    </file>
-    <file name="coinpayu-registration.jpg" crc="534978706" seo="true" ref="coinpay">
-      <caption webpage="coinpayu-review" alt=""/>
-      <caption webpage="review-coinpayu" alt=""/>
-      <caption webpage="coinpay" alt=""/>
-    </file>
-    <file name="coinpayu-serfing-saytov.jpg" crc="46999843" seo="true" ref="coinpay">
-      <caption webpage="coinpayu-review" alt=""/>
-      <caption webpage="review-coinpayu" alt=""/>
-      <caption webpage="coinpay" alt=""/>
-    </file>
-    <file name="coinpayu-serfing-v-aktivnom-okne.jpg" crc="3977648519" seo="true" ref="coinpay">
-      <caption webpage="coinpayu-review" alt=""/>
-      <caption webpage="review-coinpayu" alt=""/>
-      <caption webpage="coinpay" alt=""/>
-    </file>
-    <file name="platnye-zadaniya-v-coinpayu.jpg" crc="388219959" seo="true" ref="coinpay">
-      <caption webpage="coinpayu-review" alt=""/>
-      <caption webpage="review-coinpayu" alt=""/>
-      <caption webpage="coinpay" alt=""/>
-    </file>
-    <file name="spisok-ssylok-v-serfinge.jpg" crc="4157506862" seo="true" ref="coinpay">
-      <caption webpage="coinpayu-review" alt=""/>
-      <caption webpage="review-coinpayu" alt=""/>
-      <caption webpage="coinpay" alt=""/>
-    </file>
-    <file name="taymer-v-serfinge.jpg" crc="3864206826" seo="true" ref="coinpay">
-      <caption webpage="coinpayu-review" alt=""/>
-      <caption webpage="review-coinpayu" alt=""/>
-      <caption webpage="coinpay" alt=""/>
-    </file>
-    <file name="reshenie-kapchi-v-serfinge.jpg" crc="4146989159" seo="true" ref="coinpay">
-      <caption webpage="coinpayu-review" alt=""/>
-      <caption webpage="review-coinpayu" alt=""/>
-      <caption webpage="coinpay" alt=""/>
-    </file>
-    <file name="premium-akkaunty-coinpayu.jpg" crc="288370149" seo="true" ref="coinpay">
-      <caption webpage="coinpayu-review" alt=""/>
-      <caption webpage="review-coinpayu" alt=""/>
-      <caption webpage="coinpay" alt=""/>
-    </file>
-    <file name="withdraw.jpg" crc="175573356" seo="true" ref="coinpay">
-      <caption webpage="coinpayu-review" alt=""/>
-      <caption webpage="review-coinpayu" alt=""/>
-      <caption webpage="coinpay" alt=""/>
-    </file>
-    <file name="coinpay-favicon.ico" crc="186248096" ref="coinpay"/>
-    <file name="new-4.png" crc="4286792384" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bitcoin 64 -9.png" crc="3932618188" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="everve_logo_black_dashboard.png" crc="4224672037" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="buxon-u1741-fr.png" crc="9447691" ref="index"/>
-    <file name="teaserfast-u1770-fr.png" crc="4147992299" ref="index"/>
-    <file name="best (1).png" crc="265585671" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="top-rated.png" crc="216798014" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="first.png" crc="3949251384" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="binance.jpg" crc="144426610" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="free bitcoin.jpg" crc="28497212" seo="true" ref="freebitcoin">
-      <caption webpage="freebitcoin" alt=""/>
-    </file>
-    <file name="fun.jpg" crc="4057363500" seo="true" ref="freebitcoin">
-      <caption webpage="freebitcoin" alt=""/>
-    </file>
-    <file name="hi lo en.jpg" crc="528841799" seo="true" ref="freebitcoin">
-      <caption webpage="freebitcoin" alt=""/>
-    </file>
-    <file name="bet.jpg" crc="4199042779" seo="true" ref="freebitcoin">
-      <caption webpage="freebitcoin" alt=""/>
-    </file>
-    <file name="gold win.jpg" crc="3824721021" seo="true" ref="freebitcoin">
-      <caption webpage="freebitcoin" alt=""/>
-    </file>
-    <file name="lotery.jpg" crc="182712443" seo="true" ref="freebitcoin">
-      <caption webpage="freebitcoin" alt=""/>
-    </file>
-    <file name="призы.jpg" crc="4030038212" seo="true" ref="freebitcoin">
-      <caption webpage="freebitcoin" alt=""/>
-    </file>
-    <file name="freebitcoin-favicon.ico" crc="186248096" ref="freebitcoin"/>
-    <file name="banner.jpg" crc="3920139978" ref="freebitcoin">
-      <caption webpage="freebitcoin" alt=""/>
-    </file>
-    <file name="trophy.png" crc="75298581" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="like.png" crc="246886495" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="free-dogecoin-3.jpg" crc="4042591326" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dogecoin-doge-logo-exe.jpg" crc="319514929" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="bitcoin-u4287.png" crc="300828349" ref="index"/>
+    <file name="bitcoin-u4287-r.png" crc="3830991300" ref="index"/>
+    <file name="screenshot_13-u4286.png" crc="4239357180" ref="index"/>
+    <file name="screenshot_13-u4286-r.png" crc="4208555049" ref="index"/>
     <file name="cointiply.jpg" crc="3797489493" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bitcoin,-litecoin,-bitcoin-cash-favicon.ico" crc="35794460" ref="index"/>
-    <file name="paidverts.jpg" crc="137366129" ref="index">
+    <file name="bitcoin-u4481.png" crc="300828349" ref="index"/>
+    <file name="bitcoin-u4481-r.png" crc="3830991300" ref="index"/>
+    <file name="dash-u4478.png" crc="4206744426" ref="index"/>
+    <file name="dash-u4478-r.png" crc="3839944550" ref="index"/>
+    <file name="litecoin-u4476.png" crc="3934812891" ref="index"/>
+    <file name="litecoin-u4476-r.png" crc="400648208" ref="index"/>
+    <file name="dogecoin (1)-u4479.png" crc="199947362" ref="index"/>
+    <file name="dogecoin (1)-u4479-r.png" crc="387901391" ref="index"/>
+    <file name="freelitecoin_new.jpg" crc="127470352" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="paidverts-favicon.ico" crc="4091255401" ref="paidverts"/>
-    <file name="exmo.jpg" crc="225494721" ref="index">
+    <file name="litecoin-u4676.png" crc="3934812891" ref="index"/>
+    <file name="litecoin-u4676-r.png" crc="400648208" ref="index"/>
+    <file name="1583201566-250.jpg" crc="163312882" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bnb.png" crc="3829908778" seo="true" ref="index">
+    <file name="bitcoin-u4809.png" crc="300828349" ref="index"/>
+    <file name="bitcoin-u4809-r.png" crc="3830991300" ref="index"/>
+    <file name="solana-u4806.png" crc="238982086" ref="index"/>
+    <file name="solana-u4806-r.png" crc="3785188437" ref="index"/>
+    <file name="ethereum-u4808.png" crc="141849077" ref="index"/>
+    <file name="ethereum-u4808-r.png" crc="3874374228" ref="index"/>
+    <file name="tether-u4810.png" crc="437991567" ref="index"/>
+    <file name="tether-u4810-r.png" crc="180861709" ref="index"/>
+    <file name="bnb-u4807.png" crc="4274357343" ref="index"/>
+    <file name="bnb-u4807-r.png" crc="337742881" ref="index"/>
+    <file name="xrp-u4805.png" crc="3969308577" ref="index"/>
+    <file name="xrp-u4805-r.png" crc="4026711770" ref="index"/>
+    <file name="bybit.jpg" crc="389194559" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cryptowin.jpg" crc="4160556324" ref="index">
+    <file name="cosmos-u4962.png" crc="4218889183" ref="index"/>
+    <file name="cosmos-u4962-r.png" crc="451706086" ref="index"/>
+    <file name="uniswap-u4961.png" crc="264606469" ref="index"/>
+    <file name="uniswap-u4961-r.png" crc="338488557" ref="index"/>
+    <file name="okx-u4965.png" crc="4248704950" ref="index"/>
+    <file name="okx-u4965-r.png" crc="3782931932" ref="index"/>
+    <file name="bnb-u4960.png" crc="4274357343" ref="index"/>
+    <file name="bnb-u4960-r.png" crc="337742881" ref="index"/>
+    <file name="monero-u4963.png" crc="319684038" ref="index"/>
+    <file name="monero-u4963-r.png" crc="394238452" ref="index"/>
+    <file name="cardano-u4964.png" crc="93965528" ref="index"/>
+    <file name="cardano-u4964-r.png" crc="4035783178" ref="index"/>
+    <file name="payeer.jpg" crc="389515888" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero.jpg" crc="3778233515" ref="index">
+    <file name="dash-u5120.png" crc="4206744426" ref="index"/>
+    <file name="dash-u5120-r.png" crc="3839944550" ref="index"/>
+    <file name="xrp-u5117.png" crc="3969308577" ref="index"/>
+    <file name="xrp-u5117-r.png" crc="4026711770" ref="index"/>
+    <file name="tether-u5121.png" crc="437991567" ref="index"/>
+    <file name="tether-u5121-r.png" crc="180861709" ref="index"/>
+    <file name="litecoin-u5118.png" crc="3934812891" ref="index"/>
+    <file name="litecoin-u5118-r.png" crc="400648208" ref="index"/>
+    <file name="ethereum-u5119.png" crc="141849077" ref="index"/>
+    <file name="ethereum-u5119-r.png" crc="3874374228" ref="index"/>
+    <file name="dogecoin (1)-u5116.png" crc="199947362" ref="index"/>
+    <file name="dogecoin (1)-u5116-r.png" crc="387901391" ref="index"/>
+    <file name="everve2.jpg" crc="4072507919" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="monstr.jpg" crc="4174133190" ref="index">
+    <file name="usd3-u5306.png" crc="416565798" ref="index"/>
+    <file name="usd3-u5306-r.png" crc="4192687634" ref="index"/>
+    <file name="bitcoin-u5307.png" crc="300828349" ref="index"/>
+    <file name="bitcoin-u5307-r.png" crc="3830991300" ref="index"/>
+    <file name="litecoin-u5304.png" crc="3934812891" ref="index"/>
+    <file name="litecoin-u5304-r.png" crc="400648208" ref="index"/>
+    <file name="dash-u5303.png" crc="4206744426" ref="index"/>
+    <file name="dash-u5303-r.png" crc="3839944550" ref="index"/>
+    <file name="dogecoin (1)-u5302.png" crc="199947362" ref="index"/>
+    <file name="dogecoin (1)-u5302-r.png" crc="387901391" ref="index"/>
+    <file name="clip2net_210312232119.jpg" crc="3761767663" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satoshi hero2.jpg" crc="84342627" ref="index">
+    <file name="up-arrow.png" crc="3965679458" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="satoshi monstr2.jpg" crc="151092612" ref="index">
+    <file name="teaserfast.jpg" crc="3849673105" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="contyads.jpg" crc="3869261474" ref="index">
+    <file name="usd3-u5539.png" crc="416565798" ref="index"/>
+    <file name="usd3-u5539-r.png" crc="4192687634" ref="index"/>
+    <file name="rub-u5535.png" crc="145757909" ref="index"/>
+    <file name="rub-u5535-r.png" crc="522581883" ref="index"/>
+    <file name="number-10 (1).png" crc="3789852549" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="feyorra2.jpg" crc="463178103" ref="index">
+    <file name="number-11.png" crc="3761694848" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fey.png" crc="3808939734" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="coinpayz2.jpg" crc="239065817" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="png-clipart-bitcoin-cash-cryptocurrency-exchange-trade-bitcoin-orange-logo (1).jpg" crc="240083844" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="free-best-icon-1374-thumb.png" crc="4223251245" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="digadz.jpg" crc="284860434" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ptc.png" crc="3982650856" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="png-clipart-bitcoin-cash-cryptocurrency-exchange-trade-bitcoin-orange-logo.png" crc="319709737" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="claim trx.jpg" crc="416356677" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="trx-u3349-fr.png" crc="3963233023" ref="index"/>
-    <file name="rollercoin2.jpg" crc="3967676729" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="rollercoin.jpg" crc="306564837" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="betfury.jpg" crc="4172950807" ref="index">
+    <file name="rub-u5775.png" crc="145757909" ref="index"/>
+    <file name="rub-u5775-r.png" crc="522581883" ref="index"/>
+    <file name="bitcoin-u3904-u5776.png" crc="404059997" ref="index"/>
+    <file name="bitcoin-u3904-u5776-r.png" crc="3793693890" ref="index"/>
+    <file name="image people5.png" crc="4214941785" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="75731100" seo="true" mt="1645133721827" redirect="true"/>
-  <file name="coinpay.html" crc="66081332" seo="true" mt="1617381377696" redirect="true"/>
-  <file name="freebitcoin.html" crc="3849153421" seo="true" mt="1618335076348" redirect="true"/>
-  <file name="paidverts.html" crc="3851395117" seo="true" mt="1641930830889" redirect="true"/>
+  <file name="index.html" crc="3814674486" seo="true" mt="1705275120666" redirect="true"/>
 </manifest>
